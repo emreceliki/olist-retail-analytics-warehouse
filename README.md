@@ -360,7 +360,7 @@ GROUP BY is_churned;
 
 ## 📄 License
 
-MIT License - feel free to use for learning and portfolio purposes.
+MIT License
 
 ---
 
